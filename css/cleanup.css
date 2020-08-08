@@ -7,7 +7,7 @@
   display: none;
 }
 
-#wall #tag-3{
+#wall #tag-3 {
   display: none;
 }
 
@@ -19,7 +19,7 @@
   display: none;
 }
 
-body div#wall div.parent div:last-child div#tag-6 {
+#wall .parent :last-child #tag-6 {
   display: none;
 }
 
